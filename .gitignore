@@ -1,0 +1,8 @@
+node_modules
+temp
+tmp
+package-lock.json
+*.jar
+logerr.txt
+logout.txt
+login.txt

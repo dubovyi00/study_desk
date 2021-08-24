@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/app/static/js/main.638e9a9e.chunk.js",
+    "main.js.map": "/app/static/js/main.638e9a9e.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.bb0ade1a.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.bb0ade1a.js.map",
+    "static/css/2.385aad78.chunk.css": "/app/static/css/2.385aad78.chunk.css",
+    "static/js/2.e4709c88.chunk.js": "/app/static/js/2.e4709c88.chunk.js",
+    "static/js/2.e4709c88.chunk.js.map": "/app/static/js/2.e4709c88.chunk.js.map",
+    "index.html": "/app/index.html",
+    "static/css/2.385aad78.chunk.css.map": "/app/static/css/2.385aad78.chunk.css.map",
+    "static/js/2.e4709c88.chunk.js.LICENSE.txt": "/app/static/js/2.e4709c88.chunk.js.LICENSE.txt",
+    "static/media/AntDesign.ttf": "/app/static/media/AntDesign.163adab9.ttf",
+    "static/media/Entypo.ttf": "/app/static/media/Entypo.a10f4124.ttf",
+    "static/media/EvilIcons.ttf": "/app/static/media/EvilIcons.699664b3.ttf",
+    "static/media/Feather.ttf": "/app/static/media/Feather.11cd1d79.ttf",
+    "static/media/FontAwesome.ttf": "/app/static/media/FontAwesome.1e59d233.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/app/static/media/FontAwesome5_Brands.5818bbd0.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/app/static/media/FontAwesome5_Regular.c3146b35.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/app/static/media/FontAwesome5_Solid.32267f3b.ttf",
+    "static/media/Fontisto.ttf": "/app/static/media/Fontisto.c0edd688.ttf",
+    "static/media/Foundation.ttf": "/app/static/media/Foundation.c0cbb004.ttf",
+    "static/media/Ionicons.ttf": "/app/static/media/Ionicons.3517aeaa.ttf",
+    "static/media/MaterialCommunityIcons.a7629910.ttf": "/app/static/media/MaterialCommunityIcons.a7629910.ttf",
+    "static/media/MaterialIcons.ttf": "/app/static/media/MaterialIcons.120b4c7b.ttf",
+    "static/media/Octicons.ttf": "/app/static/media/Octicons.31d353da.ttf",
+    "static/media/SimpleLineIcons.ttf": "/app/static/media/SimpleLineIcons.3ec13a24.ttf",
+    "static/media/Zocial.ttf": "/app/static/media/Zocial.5e415922.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb0ade1a.js",
+    "static/css/2.385aad78.chunk.css",
+    "static/js/2.e4709c88.chunk.js",
+    "static/js/main.638e9a9e.chunk.js"
+  ]
+}

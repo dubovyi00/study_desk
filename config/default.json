@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret":"STDKEY",
+    "mongoUri":"mongodb+srv://brigade10:CZ3qQ9xUsbAMsnR@cluster0.vhh23.mongodb.net/studydesk_data?retryWrites=true&w=majority",
+    "baseUrl":"0.0.0.0:5000"
+}
